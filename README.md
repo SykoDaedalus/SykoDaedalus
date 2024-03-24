@@ -26,10 +26,10 @@ My name is Areeb Siddiqui and I am pursuing B.Tech in Civil Engineering from Ind
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/phantomgithub/Areeb-Siddiqui">
+<a href="https://github.com/phantomgithub/phantomgithub">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phantomgithub&show_icons=true&line_height=27&count_private=true&theme=highcontrast" alt="Areeb's GitHub Stats" />
 </a>
-<a href="https://github.com/phantomgithub/Areeb-Siddiqui">
+<a href="https://github.com/phantomgithub/phantomgithub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantomgithub&show_icons=true&theme=highcontrast" />
 </a>
 
@@ -40,7 +40,7 @@ My name is Areeb Siddiqui and I am pursuing B.Tech in Civil Engineering from Ind
 
 
 <!--
-**phantomgithub/Areeb-Siddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**phantomgithub/phantomgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
